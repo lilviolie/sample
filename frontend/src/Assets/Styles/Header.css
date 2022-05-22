@@ -1,0 +1,27 @@
+#Header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    box-shadow: 1px 1px 5px black;
+}
+
+.search-container {
+    width: 280px;
+    height: 28px;
+    background: rgb(237, 234, 234);
+    border: none;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+}
+.search__box {
+    width: 250px;
+    height: 20px;
+    margin-top: 1px;
+    margin-left: 5px;
+    background: rgb(237, 234, 234);
+    border: none;
+    outline: none;
+}
